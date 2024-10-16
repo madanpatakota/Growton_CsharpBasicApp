@@ -12,7 +12,7 @@ class Program
     {
         Console.WriteLine("Hello world");
         Console.WriteLine("------------------------------------");
-
+        
         method1();
         method2();
 
