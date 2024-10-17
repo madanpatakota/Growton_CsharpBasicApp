@@ -71,15 +71,8 @@ class Strings
        int indexOfStudent4  = student4.IndexOf('v');
         Console.WriteLine(indexOfStudent4);
 
-     
-
-
-
-
 
         Console.ReadLine();
-
-
     }
 }
 
