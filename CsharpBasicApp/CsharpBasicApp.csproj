@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>DatatypeConversation</StartupObject>
+    <StartupObject>ConditionalStatements</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,8 @@
     <Compile Include="4.DatatypeConversation.cs" />
     <Compile Include="2.Datatypes.cs" />
     <Compile Include="3.Operators.cs" />
+    <Compile Include="5.Arrays.cs" />
+    <Compile Include="6.ConditionalStatements.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="1.Strings.cs" />
